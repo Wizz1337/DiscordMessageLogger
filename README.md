@@ -2,6 +2,8 @@
 
 Discord Message Logger 🗃 is a python3 project made for logging discord messages sent by discord users,bots,hooks.
 
+### Release at 10 stars
+
 ## Disclaimer
 * ***This is against tos (https://discord.com/tos)***
 * ***I decline any responsibility for what you do with it.***
