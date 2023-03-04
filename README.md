@@ -21,6 +21,11 @@ Discord Message Logger 🗃 is a python3 project made for logging discord messag
   * Double click on start.bat and it should start
 ```
 
+## Preview
+
+![image](https://user-images.githubusercontent.com/70026238/222917689-03370e6b-9d16-484e-a254-e7973276f93a.png)
+
+
 ## Credits
 ```
 .Drxps#1337
