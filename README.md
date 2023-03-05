@@ -17,8 +17,8 @@ Discord Message Logger 🗃 is a python3 project made for logging discord messag
 ## Usage:
 
 ```js
-  * Open config.json and change informations by yours
-  * Double click on start.bat and it should start
+  * Open config.json add the bot token and change any options you want
+  * Click on setup.bat and then start.bat and it should work
 ```
 
 ## Preview
